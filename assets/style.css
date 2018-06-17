@@ -1,0 +1,13 @@
+button,
+div,
+form,
+input {
+  margin: 10px;
+}
+.gif-divs
+{float:left;
+
+}
+#gif-view{
+    display:inline;
+}
